@@ -1,3 +1,5 @@
+# Alberto Gonzalez AlbertoGB7 Propietari
+
 # Modificacions noves blablabla
 
 # laundry management system
