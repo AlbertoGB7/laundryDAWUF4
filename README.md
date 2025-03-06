@@ -1,4 +1,6 @@
 # Alberto Gonzalez AlbertoGonzalez7 Colaborador
+# Alberto Gonzalez AlbertoGB7 Propietari
+
 
 # Modificacions noves blablabla
 
